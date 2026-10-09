@@ -1,2 +1,2 @@
 # Tugas-UTS
-UAS
+UTS
